@@ -218,5 +218,3 @@ function main() {
 }
 
 document.addEventListener("DOMContentLoaded", main);
-
-console.log("hi")
